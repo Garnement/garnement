@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Anthony</h1>
+![Cover](https://github.com/Garnement/garnement/blob/main/banner.png)
 <h3 align="center">A passionnate full stack web developer</h3>
+
+🙎🏻‍♂️ I'm a full stack web developer from 🇫🇷France🇫🇷 ! I'm a developer since 2017 🤘, this is more than a job: I'm passionnate by web development.
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garnement&label=Profile%20views&color=0e75b6&style=flat" alt="garnement" /> </p>
 
