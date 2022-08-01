@@ -18,7 +18,7 @@ I'm very curious 👀 and I'm a real "learnoholic" 👨‍💻
 
 - 📄 Know about my experiences on my [Linkedin profile](https://www.linkedin.com/in/anthony-toussaint-933a6517b/)
 
-- ⚡ Fun fact **I used to be a bus driver 🚌 !**
+- ⚡ Fun fact **I used to be a bus 🚌 and tram 🚋 driver !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
