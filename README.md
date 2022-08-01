@@ -14,9 +14,9 @@ I'm very curious 👀 and I'm a real "learnoholic" 👨‍💻
 
 - 🔭 I’m currently working for [Flatchr](https://app.flatchr.io/)
 
-- 📫 How to reach me **at.toussaint@live.fr**
+- 📫 How to reach me [**email me**](anthony@flatchr.io)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/anthony-toussaint-933a6517b/](https://www.linkedin.com/in/anthony-toussaint-933a6517b/)
+- 📄 Know about my experiences on my [Linkedin profile](https://www.linkedin.com/in/anthony-toussaint-933a6517b/)
 
 - ⚡ Fun fact **I used to be a bus driver 🚌 !**
 
