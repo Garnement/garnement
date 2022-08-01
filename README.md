@@ -3,6 +3,8 @@
 
 🙎🏻‍♂️ I'm a full stack web developer from 🇫🇷France🇫🇷 ! I'm a developer since 2017 🤘, this is more than a job: I'm passionnate by web development.
 
+I'm very curious 👀 and I'm a real "learnoholic" 👨‍💻
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garnement&label=Profile%20views&color=0e75b6&style=flat" alt="garnement" /> </p>
 
